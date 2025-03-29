@@ -1,0 +1,27 @@
+#header {
+    display: flex;
+    flex-direction: row;
+    background-color: coral;
+    color: white;
+    margin: 10px auto 10px auto;
+    padding: 15px;
+    border-radius: 15px;
+    gap: 10px;
+    .item:hover {
+        color: red;
+    }
+    .item:active {
+        color: firebrick;
+    }
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+#knowledgebutton {
+    background-color: coral;
+    color: white;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
