@@ -2,7 +2,7 @@ let prefix
 if (location.hostname === "localhost") {
     prefix = "/"
 } else {
-    prefix = "/Test-Site/"
+    prefix = "/Test-site/"
 }
 
 document.querySelector("#homepage").addEventListener("click",() => {
