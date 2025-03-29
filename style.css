@@ -1,7 +1,7 @@
 #header {
     display: flex;
     flex-direction: row;
-    background-color: coral;
+    background-color: #ae4b30;
     color: white;
     margin: 10px auto 10px auto;
     padding: 15px;
@@ -19,11 +19,11 @@ body {
     display: flex;
     flex-direction: column;
     color: white;
-    background-color: dimgray;
+    background-color: #353535;
 }
 
 #knowledgebutton {
-    background-color: coral;
+    background-color: #ae4b30;
     color: white;
     border: none;
     outline: none;
