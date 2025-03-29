@@ -14,10 +14,12 @@
         color: firebrick;
     }
 }
+
 body {
     display: flex;
     flex-direction: column;
 }
+
 #knowledgebutton {
     background-color: coral;
     color: white;
@@ -26,7 +28,9 @@ body {
     border-radius: 10px;
     padding: 10px;
 }
+
 #knowledge {
     margin: 10px;
     padding: 10px;
+    display: none;
 }
